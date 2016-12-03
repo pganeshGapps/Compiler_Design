@@ -1,0 +1,13 @@
+Identifier : cin ==> 1 times
+Identifier : cout ==> 2 times
+Identifier : ans ==> 5 times
+Identifier : p ==> 4 times
+Identifier : q ==> 1 times
+Identifier : n ==> 6 times
+Identifier : d ==> 3 times
+Identifier : main ==> 1 times
+Identifier : std ==> 1 times
+Identifier : namespace ==> 1 times
+Identifier : using ==> 1 times
+Identifier : iostream ==> 1 times
+Identifier : include ==> 1 times

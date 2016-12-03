@@ -1,0 +1,4 @@
+Constant : 10 ==> 1 times
+Constant : 2 ==> 2 times
+Constant : 0 ==> 3 times
+Constant : 1 ==> 2 times

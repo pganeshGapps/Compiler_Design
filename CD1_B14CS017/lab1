@@ -1,0 +1,5 @@
+lex labAssign1.l
+gcc lex.yy.c
+./a.out < cprogram.c
+
+
